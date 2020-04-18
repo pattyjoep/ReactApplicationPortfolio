@@ -115,7 +115,7 @@ function Content() {
             <div className="row">
                 <div className="col-md-4">
                     <div className="card">
-                    <a href="https://pjpetro.github.io/WeatherDash/" target="_blank"><img src="img/WeatherDashScreenshot.png" className="card-img-top" alt="..." /></a>
+                    <a href="https://pjpetro.github.io/WeatherDash/" target="_blank"><img src="img/WeatherDashScreenShot.png" className="card-img-top" alt="..." /></a>
                     </div>
                 </div>
                 <div className="col-md-4">
